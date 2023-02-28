@@ -1,0 +1,22 @@
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO] User Command: All_Info
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO] User Command: All_Info

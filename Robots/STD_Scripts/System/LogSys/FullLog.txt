@@ -1,0 +1,35 @@
+[INFO]System Started
+[Info]shutdown Complete
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+Mon Feb 27 23:14:33 2023
+[CRITICAL]Core is not avaliable
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO] User Command: All_Info
+[INFO]System Started
+[INFO]AftonRoboticsDebugPlatform0001
+[INFO]SaveMode
+[INFO]1.0
+WARNINGActivated Testimg Mode
+[INFO] User Command: All_Info
