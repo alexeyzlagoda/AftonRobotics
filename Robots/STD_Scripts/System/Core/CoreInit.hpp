@@ -39,11 +39,21 @@ namespace Core{
             
     };
     class vector{
-        private:
+        public:
             transform Dot1;
             transform Dot2;
-        public:
-            float angleX(vector Vec){}
+            void  SetDot1(transform T){
+                Dot1 = T;
+            }
+            void  SetDot2(transform T){
+                Dot2 = T
+            }
+            float angleX(vector Vec){
+                dX = Dot1.X - Vec.Dot1.X;
+                dY = Dot1.Y - Vec.Dot1.Y;
+                dZ = Dot1.Z - Vec.Dot1.Z;
+                
+            }
             float angleY(vector Vec){}
             float angleZ(vector Vec){}
             
